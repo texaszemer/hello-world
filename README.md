@@ -1,5 +1,8 @@
 # Welcome to GitHub
 
+Welcome to another episode of IDKWTFID! I guess this is a thing and it's happening and I will do it.
+<3n
+
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
